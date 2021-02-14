@@ -80,7 +80,7 @@ th{
   padding: 10px;
   text-transform: uppercase;
   min-width: 125px;
-  text-align: center;
+  vertical-align: middle;
   background-color: #7e0820;
 
 }
